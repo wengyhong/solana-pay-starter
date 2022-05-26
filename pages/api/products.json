@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji Pack",
+    "price": 0.69,
+    "description": "Get this fire emoji pack",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "fileName": "Emojis.zip",
+    "hash": "QmTVCwrZ9dg5SwioxkKA43LRZbwNRWuptqqdXTAmprM8Xb"
+  },
+  {
+    "id": 2,
+    "name": "ZIp",
+    "price": "0.03",
+    "description": "Hehe just a zip file",
+    "fileName": "photo_2022-05-04_11-10-12.rar",
+    "image_url": "https://i.imgur.com/kgLAKVu.jpeg",
+    "hash": "QmeDdGCvrgnPovsvmnx2wKpqPbfAERv3KiDQNyBkSNiTmb"
+  }
+]
